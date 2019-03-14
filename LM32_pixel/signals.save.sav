@@ -1,0 +1,75 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Mon Nov  7 16:37:18 2016
+[*]
+[dumpfile] "/home/oscar/Descargas/lm32+led+not+uart/simulation/system_tb.vcd"
+[dumpfile_mtime] "Mon Nov  7 16:33:36 2016"
+[dumpfile_size] 94446856
+[savefile] "/home/oscar/Descargas/lm32+led+not+uart/signals.save.sav"
+[timestart] 19514100
+[size] 1303 744
+[pos] -304 -117
+*-16.212591 19680000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] system_tb.
+[treeopen] system_tb.dut.
+[treeopen] system_tb.dut.uart0.
+[sst_width] 225
+[signals_width] 223
+[sst_expanded] 1
+[sst_vpaned_height] 211
+@28
+system_tb.dut.uart0.wb_stb_i
+@22
+system_tb.dut.uart0.tx_data[7:0]
+@28
+system_tb.dut.uart0.uart_txd
+system_tb.dut.uart0.tx_wr
+@c00022
+system_tb.dut.uart0.wb_adr_i[31:0]
+@28
+(0)system_tb.dut.uart0.wb_adr_i[31:0]
+(1)system_tb.dut.uart0.wb_adr_i[31:0]
+(2)system_tb.dut.uart0.wb_adr_i[31:0]
+(3)system_tb.dut.uart0.wb_adr_i[31:0]
+(4)system_tb.dut.uart0.wb_adr_i[31:0]
+(5)system_tb.dut.uart0.wb_adr_i[31:0]
+(6)system_tb.dut.uart0.wb_adr_i[31:0]
+(7)system_tb.dut.uart0.wb_adr_i[31:0]
+(8)system_tb.dut.uart0.wb_adr_i[31:0]
+(9)system_tb.dut.uart0.wb_adr_i[31:0]
+(10)system_tb.dut.uart0.wb_adr_i[31:0]
+(11)system_tb.dut.uart0.wb_adr_i[31:0]
+(12)system_tb.dut.uart0.wb_adr_i[31:0]
+(13)system_tb.dut.uart0.wb_adr_i[31:0]
+(14)system_tb.dut.uart0.wb_adr_i[31:0]
+(15)system_tb.dut.uart0.wb_adr_i[31:0]
+(16)system_tb.dut.uart0.wb_adr_i[31:0]
+(17)system_tb.dut.uart0.wb_adr_i[31:0]
+(18)system_tb.dut.uart0.wb_adr_i[31:0]
+(19)system_tb.dut.uart0.wb_adr_i[31:0]
+(20)system_tb.dut.uart0.wb_adr_i[31:0]
+(21)system_tb.dut.uart0.wb_adr_i[31:0]
+(22)system_tb.dut.uart0.wb_adr_i[31:0]
+(23)system_tb.dut.uart0.wb_adr_i[31:0]
+(24)system_tb.dut.uart0.wb_adr_i[31:0]
+(25)system_tb.dut.uart0.wb_adr_i[31:0]
+(26)system_tb.dut.uart0.wb_adr_i[31:0]
+(27)system_tb.dut.uart0.wb_adr_i[31:0]
+(28)system_tb.dut.uart0.wb_adr_i[31:0]
+(29)system_tb.dut.uart0.wb_adr_i[31:0]
+(30)system_tb.dut.uart0.wb_adr_i[31:0]
+(31)system_tb.dut.uart0.wb_adr_i[31:0]
+@1401200
+-group_end
+@28
+system_tb.dut.uart0.tx_busy
+@22
+system_tb.dut.uart0.wb_dat_i[31:0]
+@28
+system_tb.dut.uart0.uart0.tx_wr
+@22
+system_tb.dut.uart0.uart0.tx_data[7:0]
+@29
+system_tb.dut.uart0.uart0.clk
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Fri May 12 14:26:20 2017
+[*]
+[dumpfile] "/home/juan/Documentos/Digital II/lm32_iluminacion_2/simulation/system_tb.vcd"
+[dumpfile_mtime] "Fri May 12 14:26:02 2017"
+[dumpfile_size] 96720690
+[savefile] "/home/juan/Documentos/Digital II/lm32_iluminacion_2/signals.sav"
+[timestart] 83235100
+[size] 1000 600
+[pos] -1 -1
+*-15.666285 72670000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] system_tb.
+[treeopen] system_tb.dut.
+[treeopen] system_tb.dut.memory0.
+[sst_width] 196
+[signals_width] 181
+[sst_expanded] 1
+[sst_vpaned_height] 190
+@28
+system_tb.dut.memory0.wb_stb_i
+@22
+system_tb.dut.memory0.wb_adr_i[31:0]
+system_tb.dut.memory0.wb_dat_i[31:0]
+system_tb.dut.memory0.wb_dat_o[31:0]
+@28
+system_tb.dut.memory0.signal
+system_tb.dut.memory0.C1.out
+@22
+system_tb.dut.memory0.C1.count_led[5:0]
+@28
+system_tb.dut.memory0.C1.state[2:0]
+@24
+system_tb.dut.memory0.C1.i[4:0]
+@28
+system_tb.dut.memory0.C1.rst
+system_tb.dut.memory0.C1.clk
+system_tb.dut.memory0.C1.en
+system_tb.dut.memory0.C1.init
+@22
+system_tb.dut.memory0.ram0.data_out[23:0]
+system_tb.dut.memory0.ram0.data_in[23:0]
+@28
+system_tb.dut.memory0.fotocelda
+@29
+system_tb.dut.memory0.leds[1:0]
+[pattern_trace] 1
+[pattern_trace] 0

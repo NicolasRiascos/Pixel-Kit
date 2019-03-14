@@ -1,0 +1,24 @@
+//! **************************************************************************
+// Written by: Map P.68d on Mon Mar 04 12:26:17 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "ce" LOCATE = SITE "P93" LEVEL 1;
+COMP "cp" LOCATE = SITE "P88" LEVEL 1;
+COMP "pl" LOCATE = SITE "P95" LEVEL 1;
+COMP "clk" LOCATE = SITE "P84" LEVEL 1;
+COMP "mic" LOCATE = SITE "P85" LEVEL 1;
+COMP "sda" LOCATE = SITE "P80" LEVEL 1;
+COMP "scl" LOCATE = SITE "P81" LEVEL 1;
+COMP "out" LOCATE = SITE "P98" LEVEL 1;
+COMP "pwm" LOCATE = SITE "P101" LEVEL 1;
+COMP "rst" LOCATE = SITE "P105" LEVEL 1;
+PIN rst_pin<0> = BEL "rst" PINNAME PAD;
+PIN "rst_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "done" LOCATE = SITE "P39" LEVEL 1;
+COMP "clk_out" LOCATE = SITE "P79" LEVEL 1;
+COMP "datos" LOCATE = SITE "P99" LEVEL 1;
+COMP "uart_rxd" LOCATE = SITE "P82" LEVEL 1;
+COMP "uart_txd" LOCATE = SITE "P83" LEVEL 1;
+SCHEMATIC END;
+
